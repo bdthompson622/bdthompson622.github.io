@@ -5,7 +5,7 @@ body {
 	}
 	
 ul {
-	list-style: bullet;
+	list-style-type: circle;
 	font-size: 1.125em;
 }
 
