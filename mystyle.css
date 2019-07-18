@@ -5,7 +5,8 @@ body {
 	}
 	
 ul {
-	list-style: none;
+	list-style: bullet;
+	font-size: 1.125em;
 }
 
 h1 {
@@ -23,6 +24,16 @@ h3 {
 nav {
 	background-color: black;
 	padding: 5px;
+}
+
+.biop {
+	padding: 5px;	
+	font-size: 1.33em;
+}
+
+.fimg {
+		float: right;
+		margin-left: 25px;
 }
 
 .navlink {
