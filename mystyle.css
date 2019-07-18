@@ -6,6 +6,7 @@ body {
 	
 ul {
 	list-style-type: disc;
+	list-style: disc;
 	font-size: 1.125em;
 }
 
