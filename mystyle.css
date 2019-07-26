@@ -38,6 +38,10 @@ nav {
 		margin-left: 25px;
 }
 
+#leftmargin * {
+	margin-left: 33px;
+}
+
 .navlink {
 	color: white;
 	font-family: Arial, Helvetica, sans-serif;
