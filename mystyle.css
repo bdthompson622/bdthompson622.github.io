@@ -1,45 +1,5 @@
-body {
-    color: black;
-    background-color: #44c844;
-	margin: 0px;
-	}
-	
-ul {
-	list-style-type: disc;
-	list-style: disc;
-	font-size: 1.125em;
-}
-
-h1 {
-	font-family: "Arial Black", Gadget, sans-serif;
-	color: yellow;
-	background-color: #004000;
-	padding: 20px;
-	margin: 0px;
-}
-
-h3 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1.5em;
-}
-
-nav {
-	background-color: black;
-	padding: 5px;
-}
-
-.biop {
-	padding: 5px;	
-	font-size: 1.33em;
-}
-
-.fimg {
-		float: right;
-		margin-left: 25px;
-}
-
-#leftmargin * {
-	margin-left: 33px;
+.leftmargin {
+	padding-left:1.5em;
 }
 
 .navlink {
