@@ -6,7 +6,17 @@
 	background-color:#2244ff;
 	font-family:Verdana, sans-serif;
 	padding:20px;
-	margin:0px
+	margin:0px;
+}
+
+.pagewidth {
+		width: 800px;
+		margin: auto;
+}
+
+.imgfix {
+		display: block;
+		font-size: 0px;
 }
 
 nav {
