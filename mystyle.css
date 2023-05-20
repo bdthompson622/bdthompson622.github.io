@@ -4,6 +4,9 @@
 	margin-bottom: 0;
 }
 
+.navbar {
+	margin-bottom: 1rem;
+}
 .pad-l1 {
 	padding-left: 1em;
 	padding-right: 1em;
