@@ -1,7 +1,10 @@
 .jumbotron {
 	font-family:'Trebuchet MS', sans-serif;
 	background-color: lightsteelblue !important;
-	margin: 0px !important;
+}
+
+.jumbotron.fixed-bottom {
+    margin-bottom: 0 !important;
 }
 
 .pad-l1 {
