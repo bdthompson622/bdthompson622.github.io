@@ -9,6 +9,10 @@
 
 #bottom-jumbotron { margin-bottom: 0; }
 
+.navbar {
+	margin: 0;
+}
+
 .pad-l1 {
 	padding-left: 1em;
 	padding-right: 1em;
