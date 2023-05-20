@@ -1,16 +1,7 @@
 .jumbotron {
 	font-family:'Trebuchet MS', sans-serif;
 	background-color: lightsteelblue !important;
-}
-
-.jumbotron.fixed-bottom {
-    margin-bottom: 0 !important;
-}
-
-#bottom-jumbotron { margin-bottom: 0; }
-
-.navbar {
-	margin: 0;
+	margin-bottom: 0px;
 }
 
 .pad-l1 {
